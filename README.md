@@ -6,7 +6,7 @@ This Exploratory Data Analysis project including loading, inspecting, wrangling,
 Data Decription:
 This Netflix Dataset has data about the TV Shows and Movies available on Netflix from the year 2008 to 2021. Netflix is an application that keeps growing exponentially whole around the world and it is the most famous streaming platform.
 
-dataset link https://github.com/Swatikhedekar/EDA-on-NETFLIX-dataset
+dataset link https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 Column Description of Netfix dataset:
 
